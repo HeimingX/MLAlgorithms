@@ -4,3 +4,6 @@ some basic machine learning algorithms realized in python
 
 - SVM SMO
 
+- Boosting 
+	- Adaboost
+
